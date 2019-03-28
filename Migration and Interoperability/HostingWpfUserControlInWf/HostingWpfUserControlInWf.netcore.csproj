@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.DotNet.Sdk.WindowsDesktop.Private/4.8.0-preview4.19176.15">
   <PropertyGroup>
-    <TargetFrameworks>net472;netcoreapp3.0</TargetFrameworks>
+    <TargetFrameworks>netcoreapp3.0</TargetFrameworks>
     <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
     <EnableDefaultEmbeddedResourceItems>false</EnableDefaultEmbeddedResourceItems>
   </PropertyGroup>
