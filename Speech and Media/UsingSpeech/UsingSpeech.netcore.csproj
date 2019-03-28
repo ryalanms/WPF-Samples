@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.DotNet.Sdk.WindowsDesktop.Private/4.8.0-preview4.19176.15">
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
   <PropertyGroup>
      <!-- Speech is not yet supported by .NET core 3.0 -->
     <TargetFrameworks>net472</TargetFrameworks>
