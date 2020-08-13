@@ -1,0 +1,2 @@
+dotnet-sdk-5.0.100-preview.8.20412.11-win-x64.zip
+dotnet-sdk-5.0.100-preview.8.20412.11-win-x86.zip
